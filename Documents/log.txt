@@ -1,0 +1,18 @@
+Service layer-find_community_by_ID method-entry
+Service layer-find_community_by_ID method-entry
+Service layer-find_community_by_ID method-entry
+Service Layer - Entry - findUser
+Service Layer - Entry - findUser
+Service Layer - Entry - addNewUser
+Service Layer - Exit - addNewUser
+Service Layer - Entry - addNewUser
+Service Layer - Exit - addNewUser
+Service Layer - Entry - findUser
+Service Layer - Exit - findUser
+Service Layer - Entry - addNewUser
+Service Layer - Entry - addNewUser
+Service Layer - Entry - addNewUser
+Service Layer - Exit - addNewUser
+Service Layer - Entry - addNewUser
+Service Layer - Exit - addNewUser
+Service Layer - Entry - addNewUser

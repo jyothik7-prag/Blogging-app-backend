@@ -1,0 +1,249 @@
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - addBlogger
+Service Layer - Exit - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Exit - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Exit - addBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Controller Layer - Entry - retrieveALLPosts
+Controller Layer - Exit - retrieveAllPosts
+Service Layer - Entry - retrieveallPosts
+Service Layer - Exit - retrieveallposts
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Exit - addBlogger
+Controller Layer - Entry - retrieveALLPosts
+Controller Layer - Exit - retrieveAllPosts
+Service Layer - Entry - retrieveallPosts
+Service Layer - Exit - retrieveallposts
+Service layer- find all comments method-entry
+Service layer- find all comments method-exit
+Controller Layer - Entry - retrieveALLPosts
+Controller Layer - Exit - retrieveAllPosts
+Service Layer - Entry - retrieveallPosts
+Service Layer - Exit - retrieveallposts
+Service Layer - Entry - retrieveBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - retrieveBlogger
+Service Layer - Entry - retrieveBlogger
+Service Layer - Entry - retrieveBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - retrieveBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Exit - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service layer-find_community_by_ID method-entry
+Service layer-find_community_by_ID method-exit
+Service layer-add method-entry
+Service layer-find_community_by_ID method-exit
+Service layer-delete_community_by_Id method-entry
+Delete blogger by Id not started
+Delete blogger by Id ended
+Service layer-delete_community_by_Id method-entry
+Service layer-delete_community_by_ID method-exception
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - addBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - addBlogger
+Service Layer - Exit - addBlogger
+Service layer- find all comments method-entry
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - updateBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service layer-add method-entry
+Service layer-find_community_by_ID method-exit
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service Layer - Entry - updateBlogger
+Service layer- find all comments method-entry
+Service layer- find all comments method-entry
+Service layer- find all comments method-exit
+Controller Layer - Entry - retrieveALLPosts
+Controller Layer - Exit - retrieveAllPosts
+Service Layer - Entry - retrievePostby searchstring
+Service Layer - Exit - retrievePostby searchstring
+Controller Layer - Entry - retrieveALLPosts
+Controller Layer - Exit - retrieveAllPosts
+Service Layer - Entry - retrievePostby searchstring
+Service Layer - Exit - retrievePostby searchstring
+Service layer- find all comments method-entry
+Service layer- find all comments method-exit
+Service layer- add method-entry
+Controller Layer - Entry - Post
+Controller Layer - Exit - addPost
+Service Layer - Entry - addPost
+Service Layer - Exit - addPost
+Controller Layer - Entry - retrieveALLPosts
+Controller Layer - Exit - retrieveAllPosts
+Service Layer - Entry - retrieveallPosts
+Service Layer - Exit - retrieveallposts
+Controller Layer - Entry - Post
+Controller Layer - Exit - addPost
+Service Layer - Entry - addPost
+Service Layer - Exit - addPost
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - updateBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service layer-add method-entry
+Service layer-find_community_by_ID method-exit
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service layer-add method-entry
+Service layer-find_community_by_ID method-exit
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Controller Layer - Entry - retrieveALLPosts
+Controller Layer - Exit - retrieveAllPosts
+Service Layer - Entry - retrieveallPosts
+Service Layer - Exit - retrieveallposts
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Controller Layer - Entry - retrieveALLPosts
+Controller Layer - Exit - retrieveAllPosts
+Service Layer - Entry - retrieveallPosts
+Service Layer - Exit - retrieveallposts
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - addBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - addBlogger
+Service Layer - Exit - addBlogger
+Service Layer - Entry - addBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Exit - addBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service Layer - Entry - updateBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - updateBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - addBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - addBlogger
+Service Layer - Exit - addBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Controller Layer - Entry - retrieveALLPosts
+Controller Layer - Exit - retrieveAllPosts
+Service Layer - Entry - retrieveallPosts
+Service Layer - Exit - retrieveallposts
+Controller Layer - Entry - updatePost
+Controller Layer - Exit - updatePost
+Service Layer - Entry - updatePost
+Service layer- find all comments method-entry
+Service layer- find all comments method-exit
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
+Service layer-Get_all_communities-entry
+Service layer-Get_All_Communities-exit
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service Layer - Entry - updateBlogger
+Service Layer - Exit - updateBlogger
+Service Layer - Entry - retrieveAllBloggers
+Service Layer - Exit - retrieveAllBloggers
